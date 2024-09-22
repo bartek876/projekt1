@@ -1,0 +1,24 @@
+===================RAPORT FIRMY===================
+Data raportu: 2024-09-14 10:55:44
+
+
+===================UŻYTKOWNICY====================
+Login: admin, Rola: admin
+Login: sprzedwca1, Rola: sprzedawca
+Login: sprzedawca2, Rola: sprzedawca
+
+
+=====================PRODUKTY=====================
+Nazwa: piłka, Cena: 50.00 zł, Ilość: 15
+Nazwa: klawiatura, Cena: 150.00 zł, Ilość: 30
+Nazwa: myszka, Cena: 75.00 zł, Ilość: 20
+
+
+===============TRANSAKCJE FINANSOWE===============
+Operator: admin, Operacja: order, Ilość: 10, Koszt: 500.00 zł, Data: 2024-09-14 10:55:44
+Operator: admin, Operacja: sell, Ilość: 5, Koszt: 250.00 zł, Data: 2024-09-14 10:55:44
+Operator: admin, Operacja: balance_update, Ilość: 0, Koszt: 5000.00 zł, Data: 2024-09-14 10:55:44
+Operator: sprzedwca1, Operacja: sell, Ilość: 10, Koszt: 750.00 zł, Data: 2024-09-14 10:55:44
+
+Saldo firmy: 5500.00 zł
+

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "piłka",
+        "price": 50.0,
+        "quantity": 15
+    },
+    {
+        "name": "klawiatura",
+        "price": 150.0,
+        "quantity": 30
+    },
+    {
+        "name": "myszka",
+        "price": 75.0,
+        "quantity": 20
+    }
+]

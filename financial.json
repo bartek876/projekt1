@@ -1,0 +1,33 @@
+{
+    "transactions": [
+        {
+            "operator": "admin",
+            "operation": "order",
+            "amount": 10,
+            "cost": 500.0,
+            "date": "2024-09-14 10:54:25"
+        },
+        {
+            "operator": "admin",
+            "operation": "sell",
+            "amount": 5,
+            "cost": 250.0,
+            "date": "2024-09-14 10:54:25"
+        },
+        {
+            "operator": "admin",
+            "operation": "balance_update",
+            "amount": 0,
+            "cost": 5000.0,
+            "date": "2024-09-14 10:54:25"
+        },
+        {
+            "operator": "sprzedwca1",
+            "operation": "sell",
+            "amount": 10,
+            "cost": 750.0,
+            "date": "2024-09-14 10:55:27"
+        }
+    ],
+    "balance": 5500.0
+}
